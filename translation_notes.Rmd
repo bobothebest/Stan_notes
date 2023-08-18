@@ -18,3 +18,6 @@ outcome因变量
 sampling采样（有疑问，感觉改成“抽样”会不会更好一点）
 overloaded重载
 improper priors 不合适的先验
+
+2.10 逻辑回归和概率回归
+link function链接函数（这里参考周志华老师的西瓜书里翻译成“联系函数”是不是更好呢）
