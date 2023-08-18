@@ -1,0 +1,20 @@
+---
+title: "translation_notes"
+author: "zzy"
+date: '2023-08-18'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+2 回归模型
+multilevel generalized linear models 多层次广义线性模型
+
+2.2 线性回归
+predictor自变量
+outcome因变量
+sampling采样（有疑问，感觉改成“抽样”会不会更好一点）
+overloaded重载
+improper priors 不合适的先验
