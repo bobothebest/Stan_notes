@@ -21,3 +21,10 @@ improper priors 不合适的先验
 
 2.10 逻辑回归和概率回归
 link function链接函数（这里参考周志华老师的西瓜书里翻译成“联系函数”是不是更好呢）
+Logit Parameterization（这里是要翻译成“逻辑参数化”还是“对数几率参数化”呢）
+
+2.18 分层logistic回归
+pooling汇集
+
+
+
