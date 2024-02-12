@@ -30,5 +30,16 @@ pooling汇集
 group-level coefficients 组级系数
 scale vector 尺度向量
 
+12 方向、旋转和超球面
+12.2 单位向量
+Even though the hypersphere is compact, the result would be an improper distribution.
+compact 紧致的（参考了维基百科数论中紧集的翻译）
+improper 不正确的（感觉这样更通顺，但是翻译成“合理的”“适合的”更加符合直译要求）
+
+
+12.4圆、球体和超球体
+$S^2$ is defined as a set of points in $\mathbb{R}^3$
+
+a set of points 一组点（需不需要翻译成：$\mathbb{R}^3$中的一个点的集合）
 
 
