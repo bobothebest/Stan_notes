@@ -30,6 +30,10 @@ pooling汇集
 group-level coefficients 组级系数
 scale vector 尺度向量
 
+6 缺失数据和部分参数已知
+6.10 缺失的多变量数据
+dummy values 虚拟值
+
 12 方向、旋转和超球面
 12.2 单位向量
 Even though the hypersphere is compact, the result would be an improper distribution.
