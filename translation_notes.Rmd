@@ -34,6 +34,9 @@ scale vector 尺度向量
 6.10 缺失的多变量数据
 dummy values 虚拟值
 
+10.有限混合
+modes 好像有翻译成“模态”的，也有翻译成“峰值”的。这里保留了译者最初的翻译，如果有问题的话后期再进行校对和调整
+
 12 方向、旋转和超球面
 12.2 单位向量
 Even though the hypersphere is compact, the result would be an improper distribution.
